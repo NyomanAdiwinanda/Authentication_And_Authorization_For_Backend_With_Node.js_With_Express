@@ -1,6 +1,6 @@
 # Authentication and Authorization Quick Template for Backend with Node.Js
 This repository contains files template if you want to quick setup for user authentication and authorization in your server side scripting 
-using Node.Js with express, and PostgresQL with Sequelize ORM.
+using Node.Js with Express.js, and PostgresQL with Sequelize ORM.
 
 To make the files work properly, first in your newly-created project folder you need to:
 
